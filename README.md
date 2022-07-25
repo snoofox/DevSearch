@@ -2,14 +2,14 @@
 
 
 # Installation
-* 1 - clone repo https://github.com/divanov11/Django-2021
+* 1 - clone repository https://github.com/snoofox/DevSearch
 * 2 - create a virtual environment and activate
 *  - pip install virtualenv
 *  - virtualenv envname
 *  - envname\scripts\activate
-* 3 - cd into project "cd django-2021"
+* 3 - cd into project "cd DevSearch"
 * 4 - pip install -r requirements.txt
-* 5 - python manage.py runserver
+* 5 - python3 manage.py runserver
 
 
 # Features
@@ -21,8 +21,8 @@
 
 # Tech Stack
 * Django
-* Postgres
 * Django REST Framework
+
 
 # Home Page
 [![Home](https://i.postimg.cc/PJkG4Wzh/Screenshot-2022-07-25-at-2-59-18-PM.png)](https://postimg.cc/Hc3PW7hP)
